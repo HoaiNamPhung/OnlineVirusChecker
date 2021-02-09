@@ -21,4 +21,5 @@ Features include:
 * Secure user credential storage (hashing, salting, not visible as-is during client-to-server transactions)
 * The ability to upload putative infected files when using admin accounts into a database
 * The ability to upload and check a file for viruses by comparing its signature to the database of putative infected files.
+* Sanitization of said uploads to prevent malicious injections
 
